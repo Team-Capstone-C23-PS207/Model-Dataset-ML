@@ -11,6 +11,11 @@ The dataset is from [Drinking Waste ClassificationStructureRSMAS](https://www.ka
   <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Glass/Glass1%2C001.JPG" alt="Glass1,001" width="256" height="256" style="display: inline-block;">
   <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/PET/PET1%2C000.jpg" alt="PET1,000" width="256" height="256" style="display: inline-block;">
 </div>
+<div>
+  <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Unknown/cardboard384.jpg" alt="cardboard384" width="256" height="256" style="display: inline-block;">
+  <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Unknown/paper188.jpg" alt="paper188" width="256" height="256" style="display: inline-block;">
+  <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Unknown/trash50.jpg" alt="trash50" width="256" height="256" style="display: inline-block;">
+</div>
 
 ## The Approach
 
