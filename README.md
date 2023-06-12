@@ -3,6 +3,11 @@
 ## Data Specification
 
 The dataset is from [Drinking Waste ClassificationStructureRSMAS](https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification) that contains 4828 images separated by class and has 4 classes. But because the scope of this application is not very large, our team focuses on 3 classes (AluCan, Glass, and PET). We also decided to add one more class (Unknown) from the dataset [Trashnet](https://github.com/garythung/trashnet). For our baseline and transfer learning model, we generate more images using data augmentation.
+<br>
+<br>
+![AluCan1,000](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/AluCan/AluCan1%2C000.jpg)
+![Glass1,001](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Glass/Glass1%2C001.JPG)
+![PET1,000](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/PET/PET1%2C000.jpg)
 
 WASTE IMAGE RECOGNITION
 Link Google Colab: https://colab.research.google.com/drive/1q6CrJMQdnEZgM_lyw4FgGJBHCNWOPMy_?usp=sharing
