@@ -20,6 +20,29 @@ The dataset is from [Drinking Waste ClassificationStructureRSMAS](https://www.ka
 ## The Approach
 
 In machine learning, we try three different scenarios for training models: baseline from CNN Coursera, transfer learning InceptionV3, and transfer learning Xception.
+<br>
+<br>
+![Flow Diagram](https://user-images.githubusercontent.com/86770916/245032535-3efc4990-a892-4723-85a1-7f3d35cdc972.png)
+
+And here’s the result of each model:
+Algorithm | Loss | Accuracy | Val_Loss | Val_Accuracy
+------------ | ------------ | ------------- | ------------- | -------------
+Baseline CNN Coursera | 0.40 | 0.62 | 0.41 | 0.65
+Transfer Learning InceptionV3 | 0.28 | 0.89 | 0.35 | 0.77
+Transfer Learning Xception | **0.27** | **0.90** | **0.24** | **0.91**
+
+The loss, accuracy, val_loss, and val_accuracy on the baseline model are really low and the transfer learning InceptionV3 has increased significantly but there are still fluctuations in val_loss and val_accuracy. Then with transfer learning Xception, we achieved 81% on precision, recall, and F-1 score and we think this is adequate for our model to run smoothly.
+
+## References
+
+- [Transfer Learning](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/home/week/3)
+- [Converting Models to JSON Format](https://www.coursera.org/learn/browser-based-models-tensorflow/home/week/3)
+- [InceptionV3](https://keras.io/api/applications/inceptionv3/)
+- [Xception](https://keras.io/api/applications/xception/)
+
+---
+
+## Link Documentation
 
 WASTE IMAGE RECOGNITION
 Link Google Colab: https://colab.research.google.com/drive/1q6CrJMQdnEZgM_lyw4FgGJBHCNWOPMy_?usp=sharing
