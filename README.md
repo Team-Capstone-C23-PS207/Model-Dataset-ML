@@ -7,9 +7,9 @@ The dataset is from [Drinking Waste ClassificationStructureRSMAS](https://www.ka
 <br>
 
 <div>
-  ![AluCan1,000](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/AluCan/AluCan1%2C000.jpg)
-  ![Glass1,001](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Glass/Glass1%2C001.JPG)
-  ![PET1,000](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/PET/PET1%2C000.jpg)
+  <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/AluCan/AluCan1%2C000.jpg" alt="AluCan1,000" style="display: inline-block;">
+  <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/Glass/Glass1%2C001.JPG" alt="Glass1,001" style="display: inline-block;">
+  <img src="https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML/blob/main/DATASET/TRAIN/PET/PET1%2C000.jpg" alt="PET1,000" style="display: inline-block;">
 </div>
 
 ## The Approach
